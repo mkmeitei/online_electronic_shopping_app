@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893437431950",
+    "project_id": "onlineelectronicstoreproject",
+    "storage_bucket": "onlineelectronicstoreproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893437431950:android:11d277fcff05b231c779df",
+        "android_client_info": {
+          "package_name": "com.example.online_electronic_shopping_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrLn3drqC6z9OiBSLjFPxgXoiryRodoEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
